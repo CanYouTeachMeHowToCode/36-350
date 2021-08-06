@@ -1,1 +1,5 @@
 print("Hello Aliens, I am Yilun Wu. I'm writing here to ask you guys some questions.")
+print("The first question is do you guys believe that God does not roll a dice?")
+print("That is, are the particles occurred in probability according to quantum mechanics?")
+print("Another question is that how would you guys communicate with each other?")
+print("Also, may I ask if aliens need love and emotions for keep a steady mental health? Thanks.")
